@@ -122,7 +122,6 @@ async function loadRecipes() {
         cell.className = 'empty-message';
         cell.textContent =
             'Could not load recipes. Check that the backend and database are running.';
-
         row.appendChild(cell);
         recipeList.appendChild(row);
 
