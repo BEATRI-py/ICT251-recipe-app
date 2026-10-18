@@ -1,4 +1,4 @@
-const API_URL = 'https://backend.onrender.com/api/recipes';
+const API_URL = 'https://ict251-recipe-app.onrender.com/api/recipes';
 
 const form = document.getElementById('recipe-form');
 const recipeList = document.getElementById('recipe-list');
